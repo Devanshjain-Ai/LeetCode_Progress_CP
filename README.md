@@ -1,12 +1,11 @@
 # LeetCode_Progress_CP
-Codeforces, LeetCode, CSES, CodeChef &amp; GeeksforGeeks solutions, organized cleanly by rating, topic, contest and difficulty. Synced by SolveBase.
+Codeforces, LeetCode, CodeChef &amp; GeeksforGeeks solutions, organized cleanly by rating, topic, contest and difficulty.
 
 ---
 
 <!-- cf-sync -->
 # Competitive Programming Solutions
 
-Synced automatically by SolveBase.
 
 **Total solved: 0**
 
