@@ -18,7 +18,7 @@ public:
             }
             else{
                 len++;
-                if ((len*rem)% k == rem){
+                if (((len-1)*rem)% k == 0){
                     ans = max(ans ,i -str +1 );
                 }
             }
